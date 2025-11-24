@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Maritriv
+## 👋 Hi there! I'm Marina
 
 🎓 I'm a Data Engineering and Artificial Intelligence student at the **Complutense University of Madrid**, currently in my **fourth and final year**.  
 I'm passionate about technology, problem-solving, and using data to make meaningful impact in the real world.
