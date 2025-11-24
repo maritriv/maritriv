@@ -84,7 +84,7 @@ It predicts kidney viability in **uncontrolled donation after circulatory death*
 - Automatic PDF report generation  
 - Machine Learning platform for supervised model training  
 
-🔗 Repository: [*TFG-Donacion-Renal*](https://github.com/maritriv/TFG-Donacion-Renal)
+🔗 Repository: [*Renal-DCD*](https://github.com/maritriv/TFG-Donacion-Renal)
 
 ---
 
