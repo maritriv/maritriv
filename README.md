@@ -144,6 +144,70 @@ The system also integrates **Firebase** for authentication, user management and 
 
 ---
 
+### 🚕 **NYC Urban Mobility – Big Data & Predictive Analytics**
+
+End-to-end data engineering and Machine Learning project focused on analyzing and predicting urban mobility patterns in **New York City** using large-scale transportation data.
+
+The system processes **tens of millions of taxi and ride-hailing trips** and combines them with external data sources such as weather, urban events, rental prices and restaurant activity.
+
+The project is built around a scalable, layered data architecture that covers the complete lifecycle from raw data ingestion to predictive models and interactive visualization.
+
+**Main components:**
+
+- **Scalable data pipeline with PySpark** for ingestion, validation, cleaning, standardization and aggregation of large transportation datasets.
+- Integration of multiple external data sources including **NYC TLC, Open-Meteo, NYC Open Data and U.S. Census data**.
+- Generation of analytical and ML-ready datasets using temporal, spatial and contextual features.
+- Machine Learning models for:
+  - Predicting the **highest-demand NYC zone**.
+  - Estimating **taxi tips before the trip is completed**.
+  - Identifying **spatio-temporal demand patterns**.
+  - Building a socioeconomic indicator across NYC areas.
+  - Predicting an **urban stress index** at different time horizons.
+- Comparison of models including **Logistic Regression, Random Forest, Gradient Boosting, XGBoost and neural networks**.
+- Temporal train/validation/test splitting to prevent data leakage and simulate real-world prediction.
+- **FastAPI REST API** for serving predictions and processed data.
+- Interactive **React + Vite dashboard** with maps, alerts, historical analysis and urban mobility recommendations.
+
+For the urban stress prediction task, **XGBoost achieved the best overall performance**, with an R² of approximately **0.73** on the test set.
+
+**Technologies:** Python · PySpark · Spark ML · Pandas · Scikit-learn · XGBoost · PyTorch · FastAPI · React · Vite · REST APIs · Parquet · Git
+
+🔗 **Repository:**  
+[Grupo-PD2 – Transporte NYC](https://github.com/maritriv/Grupo-PD2---Transporte-NYC)
+
+---
+
+### 🤖 **Natural Language Processing & Generative AI – 5 Applied Projects**
+
+Collection of five projects developed for the Natural Language Processing course, covering traditional NLP, information retrieval, Generative AI, autonomous agents and Transformer architectures.
+
+The repository explores different stages of modern language processing, from speech analysis and classical information retrieval to LLM-based systems and the implementation of a Transformer model from scratch.
+
+**Main projects:**
+
+- 🤖 **Autonomous Trading Agent with LLMs**  
+  Development of an autonomous multi-agent trading system capable of interpreting natural-language offers. The architecture combines deterministic business rules with a local **Qwen LLM through Ollama**, using the language model as a semantic extraction layer while keeping strategic decisions under deterministic control.
+
+- 🔊 **Speech Analysis & Concatenative Synthesis**  
+  Analysis and reconstruction of speech using manual phoneme segmentation, spectrogram analysis with Praat and concatenative synthesis. The project explores coarticulation, prosody, formants and spectral discontinuities.
+
+- 🔐 **Binary Encoding Reverse Engineering**  
+  Reverse engineering of an unknown binary encoding format through frequency analysis and byte-level pattern discovery. Development of tools for encoding, decoding and automatic format detection.
+
+- 📖 **Semantic Search & RAG – Don Quixote**  
+  Development of an information retrieval system combining classical **TF-IDF retrieval**, linguistic preprocessing with spaCy, semantic search using **embeddings**, cosine similarity and a **Retrieval-Augmented Generation (RAG)** pipeline with local LLMs through Ollama.
+
+- 🧠 **Transformer from Scratch & NER**  
+  Implementation of a small **Transformer architecture from scratch**, including a custom BPE tokenizer, embeddings, scaled dot-product self-attention, causal masking and autoregressive text generation. The pretrained Transformer backbone was later adapted through **Transfer Learning** to a Named Entity Recognition (NER) task using BIO classification.
+
+**Technologies & concepts:**  
+Python · NLP · Generative AI · LLMs · RAG · Transformers · Attention · Embeddings · BPE Tokenization · Transfer Learning · NER · Semantic Search · TF-IDF · spaCy · Ollama · Qwen · Llama · PyTorch · Information Retrieval · Speech Processing
+
+🔗 **Repository:**  
+[fdi-pln2608](https://github.com/maritriv/fdi-pln2608)
+
+---
+
 ### 🎬 **FilmPredict – Predictive Modeling & Data Pipeline**
 End-to-end data analysis and ML modeling project using real cinematic data.  
 Includes:
