@@ -136,11 +136,9 @@ The system also integrates **Firebase** for authentication, user management and 
 
 **Technologies:** Python · Scikit-learn · CTGAN · FastAPI · Kotlin · Android · Firebase · HTML · CSS · JavaScript · Git
 
-🔗 **ML Pipeline & Web Platform:**  
-[TFG-Donacion-Renal-ml-web](https://github.com/maritriv/TFG-Donacion-Renal-ml-web)
+🔗 **ML Pipeline & Web Platform:** [TFG-Donacion-Renal-ml-web](https://github.com/maritriv/TFG-Donacion-Renal-ml-web)
 
-🔗 **Android Application:**  
-[TFG-Donacion-Renal](https://github.com/maritriv/TFG-Donacion-Renal)
+🔗 **Android Application:** [TFG-Donacion-Renal](https://github.com/maritriv/TFG-Donacion-Renal)
 
 ---
 
@@ -172,8 +170,7 @@ For the urban stress prediction task, **XGBoost achieved the best overall perfor
 
 **Technologies:** Python · PySpark · Spark ML · Pandas · Scikit-learn · XGBoost · PyTorch · FastAPI · React · Vite · REST APIs · Parquet · Git
 
-🔗 **Repository:**  
-[Grupo-PD2 – Transporte NYC](https://github.com/maritriv/Grupo-PD2---Transporte-NYC)
+🔗 **Repository:** [Grupo-PD2 – Transporte NYC](https://github.com/maritriv/Grupo-PD2---Transporte-NYC)
 
 ---
 
@@ -203,8 +200,7 @@ The repository explores different stages of modern language processing, from spe
 **Technologies & concepts:**  
 Python · NLP · Generative AI · LLMs · RAG · Transformers · Attention · Embeddings · BPE Tokenization · Transfer Learning · NER · Semantic Search · TF-IDF · spaCy · Ollama · Qwen · Llama · PyTorch · Information Retrieval · Speech Processing
 
-🔗 **Repository:**  
-[fdi-pln2608](https://github.com/maritriv/fdi-pln2608)
+🔗 **Repository:** [fdi-pln2608](https://github.com/maritriv/fdi-pln2608)
 
 ---
 
